@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ #coachanswer {
+  font-weight: bold;
+ }
